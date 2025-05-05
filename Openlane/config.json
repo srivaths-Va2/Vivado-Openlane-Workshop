@@ -1,0 +1,7 @@
+{
+    "DESIGN_NAME": "multiplier_32x32",
+    "VERILOG_FILES": "dir::src/*.v",
+    "CLOCK_PORT": "clk",
+    "CLOCK_PERIOD": 25,
+    "FP_PDN_MULTILAYER": true
+}
